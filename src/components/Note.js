@@ -13,3 +13,4 @@ export default Note;
 
 //1.Use props to replace hardcode data in <Note />
 //2.Use map to replace rewrite <Note />
+//3.use arrow
